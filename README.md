@@ -1,3 +1,6 @@
 # Unreal Plugin for the [Fisheye Platform](https://github.com/AI-LA-Community/fisheye)
 
-Nothin' to see here folks.
+
+## Resources
+
+* Using HTTP REST calls from Unreal.  [Excellent tutorial](https://www.youtube.com/watch?v=c6gad7tXfTM&t=124s) by [Jolly Monster Studios](http://jollymonsterstudio.com/)
